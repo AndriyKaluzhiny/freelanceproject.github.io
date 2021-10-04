@@ -623,3 +623,205 @@ footer {
     bottom: 2.41%;
     background-image: url(../images/button.png);
 }
+
+
+@media screen and (max-width: 1400px) {
+    body {
+        width: 100%;
+    }
+
+    header {
+        height: 713px;
+    }
+
+    section {
+        height: 800px;
+    }
+
+    .hobby-img, .ps-img, .dates-img, .ending-img  {
+        height: 100%;
+    }
+    .left_part__main_group {
+        margin-top: 10px;
+    }
+
+    .introduction {
+        margin-top: 20px;
+    }
+
+    .block-left-part {
+        height: 100%;
+    }
+
+    .about {
+        margin-top: 120px;
+    }
+
+    .right_part {
+        width: 620px;
+    }
+
+    .hobby-img {
+        width: 505px;
+    }
+
+    .about {
+        width: 500px;
+    }
+    
+    .about_text {
+        width: 500px;
+    }
+
+    .block-right-part {
+        width: 600px;
+    }
+
+    .third-block-content {
+        margin-left: 0;
+        width: 500px;
+    }
+
+    .right {
+        width: 300px;
+        margin-left: 0;
+    }
+
+    .like_list_item {
+        width: 300px;    
+           
+    }
+
+    .dates-img {
+        width: 500px;
+    }
+
+    .media {
+        margin-bottom: 32px;
+    }
+    
+    .media2 {
+        margin-bottom: 64px;
+    }
+
+    .corect {
+
+        height: 240px;
+        width: 469px;
+    
+    }
+
+    .media-m-70 {
+        margin-bottom: 70px;
+    }
+
+    .media-m-b {
+        margin-bottom: 30px;
+    }
+
+    .hobby-text {
+        margin-top: 130px;
+    }
+
+    .left {
+        width: 300px;
+        margin-left: 50px;
+    }
+
+    .third-block {
+        justify-content: unset;
+    }
+
+    .third-block-content {
+        width: 300px;
+    }
+
+    .third-block-content::before {
+        width: 300px;
+    }
+
+    .fifth_section {
+        justify-content: unset;
+    }
+
+    .likedislike_line {
+    margin-right: 263px;
+    margin-left: 328px;
+    }
+
+    .third-block-img {
+        height: 800px;
+    }
+
+    .like-block {
+        margin-left: 55px;
+    }
+
+    .ps {
+        justify-content: unset;
+    }
+
+    .ps-img {
+        width: 659px;
+    }
+
+    .media3 {
+        margin-left: 132px;
+        margin-right: 132px;
+    }
+
+    .photo1,.photo2,.photo3,.photo4 {
+        width: 350px;
+    }
+
+    .red {
+        width: 500px;
+    }
+
+    .corect {
+        width: 300px;
+    }
+
+    .media4 {
+        width: 500px;
+        margin-top: 0;
+    }
+
+    .datesfirst {
+        margin-bottom: 105px;
+    }
+
+    .media-list {
+        margin-bottom: 70px;
+    }
+
+    .media-list2 {
+        margin-bottom: 30px;
+    }
+
+    .second_item {
+        margin-bottom: 60px;
+    }
+
+    .ending-text {
+        margin-bottom: 110px;
+        margin-left: 100px;
+    }
+
+    .social-button1 {
+        margin-left: 129px;
+    }
+
+    .dates-text {
+        margin-top: 210px;
+    }
+
+    .ps-text {
+        margin: 0;
+    }
+
+    .m-0 {
+        margin: 0;  
+    }
+}
+
